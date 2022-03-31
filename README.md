@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ..."
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Embedded devices, mostly Android kernel and native layers ⚙️
-- 🌱 I’m currently learning Android camera stack 🤳
+- 🔭 I’m currently working on Embedded devices, mostly Android kernel 🐧 and native layers ⚙️
+- 🌱 I’m currently learning React ⚛️ and Rust ⚙️
 - 👯 I’m looking to collaborate on fun open source projects (DM me 😀)
 - 💬 Ask me about Robots 🤖
 - 📫 How to reach me: bruno97br@gmail.com
